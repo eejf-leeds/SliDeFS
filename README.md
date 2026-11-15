@@ -90,4 +90,5 @@ More detailed description of workflow.
 
 Reference:
 Johnson, K. M., Wallace, L. M., Maurer, J.,Hamling, I., Williams, C., Rollins, C., et al.(2024). Inverting geodetic strain rates forslip deficit rate in complex deforming zones: An application to the New Zealandplate boundary. Journal of GeophysicalResearch: Solid Earth, 129,e2023JB027565.  https://doi.org/10.1029/2023JB027565
-Fang, J., Wright, T. J., Johnson, K. M., Ou, Q., Styron, R., Craig, T. J., ... & Zheng, G. (2024). Strain partitioning in the Southeastern Tibetan Plateau from kinematic modeling of high‐resolution Sentinel‐1 InSAR and GNSS. Geophysical Research Letters, 51(19), e2024GL111199.
+
+Fang, J., Wright, T. J., Johnson, K. M., Ou, Q., Styron, R., Craig, T. J., ... & Zheng, G. (2024). Strain partitioning in the Southeastern Tibetan Plateau from kinematic modeling of high‐resolution Sentinel‐1 InSAR and GNSS. Geophysical Research Letters, 51(19), e2024GL111199. https://doi.org/10.1029/2024GL111199
